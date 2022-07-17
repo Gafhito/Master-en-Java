@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="253f0750-5065-403d-aa85-3f12b9800e68" name="Changes" comment="" />
+    <list default="true" id="253f0750-5065-403d-aa85-3f12b9800e68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,28 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MiNombre">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
-      <module name="Master en Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MiNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seccion_1_Introduccion.MiNombre" />
+}</component>
+  <component name="RunManager" selected="Application.DetalleDeFactura">
+    <configuration name="ConversionDeTipos1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2_Variables.ConversionDeTipos1" />
       <module name="Master en Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seccion_1_Introduccion.*" />
+          <option name="PATTERN" value="Seccion_2_Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +52,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seccion_1_Introduccion.HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seccion_1_Introduccion.HolaMundo" />
+    <configuration name="ConversionDeTipos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2_Variables.ConversionDeTipos2" />
       <module name="Master en Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seccion_1_Introduccion.*" />
+          <option name="PATTERN" value="Seccion_2_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionDeTipos3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2_Variables.ConversionDeTipos3" />
+      <module name="Master en Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seccion_2_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetalleDeFactura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2_Variables.DetalleDeFactura" />
+      <module name="Master en Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seccion_2_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemasNumericosTerminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2_Variables.SistemasNumericosTerminal" />
+      <module name="Master en Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seccion_2_Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,9 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MiNombre" />
-        <item itemvalue="Application.Seccion_1_Introduccion.HolaMundo" />
-        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.DetalleDeFactura" />
+        <item itemvalue="Application.ConversionDeTipos3" />
+        <item itemvalue="Application.ConversionDeTipos2" />
+        <item itemvalue="Application.ConversionDeTipos1" />
+        <item itemvalue="Application.SistemasNumericosTerminal" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +123,37 @@
       <option name="presentableId" value="Default" />
       <updated>1658010947602</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creación del repo">
+      <created>1658011189751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011189751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sección 1: Introducción">
+      <created>1658011323764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011323764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creación del repo" />
+    <MESSAGE value="Sección 1: Introducción" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sección 1: Introducción" />
   </component>
 </project>
